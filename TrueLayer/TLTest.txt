@@ -1,0 +1,16 @@
+This script has run on 17092020 at 010931
+
+The filename of the script is: TrueLayer-script.sh
+
+Contents of the current directory /Users/manoj_chitrala/TrueLayer : 
+ total 8
+drwxr-xr-x+ 61 manoj_chitrala  staff  1952 17 Dec 01:09 ..
+drwxr-xr-x   3 manoj_chitrala  staff    96 17 Dec 01:09 .
+-rw-r--r--   1 manoj_chitrala  staff    95 17 Dec 01:09 TLTest.txt
+
+Public IP used from this host: 85.210.115.47
+
+Current System's Memory: 
+
+Current User executing the script: manoj_chitrala and PID of the script 1689
+
